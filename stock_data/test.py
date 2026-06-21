@@ -1,0 +1,1 @@
+/Volumes/Winner/AUCA/BigDataEssential/Final Project/stock_data
